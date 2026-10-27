@@ -5,6 +5,7 @@
 London, UK · MSc Business & Data Analytics (Distinction), Ravensbourne University London
 
 [![Email](https://img.shields.io/badge/Email-simantokarmaker1%40gmail.com-24292F?logo=gmail&logoColor=white)](mailto:simantokarmaker1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Simanta%20Karmaker-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simanta-karmaker-44b900251)
 
 ---
 
